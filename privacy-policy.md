@@ -1,7 +1,3 @@
----
-title: Privacy Policy
----
-
 # Privacy Policy — Gravix247
 
 **Last updated: 14 June 2026**
@@ -170,8 +166,8 @@ Where a change introduces a new purpose for processing your personal data, we wi
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact our Grievance Officer:
 
-**Grievance Officer:** Shivam Sachan
-**Email:** dskj4178@gmail.com
-**App:** Gravix247 (com.gravix247.gravix247)
+- **Grievance Officer:** Shivam Sachan
+- **Email:** dskj4178@gmail.com
+- **App:** Gravix247 (com.gravix247.gravix247)
 
 We will acknowledge grievances within 7 days and resolve them within 90 days, as set out in Section 9.
