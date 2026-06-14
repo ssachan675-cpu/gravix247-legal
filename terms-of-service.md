@@ -1,14 +1,10 @@
----
-title: Terms of Service
----
-
 # Terms of Service — Gravix247
 
 **Last updated: 14 June 2026**
 
 These Terms of Service ("**Terms**") govern your access to and use of the Gravix247 mobile application (the "**App**"), available on Google Play, and any related features and services (together, the "**Service**") provided by Gravix247 ("**Gravix247**", "**we**", "**us**", or "**our**").
 
-By creating an account, signing in with Google, or otherwise using the App, you agree to be bound by these Terms and by our [Privacy Policy](privacy-policy.html), which is incorporated into these Terms by reference. If you do not agree to these Terms, you must not use the App.
+By creating an account, signing in with Google, or otherwise using the App, you agree to be bound by these Terms and by our [Privacy Policy](#), which is incorporated into these Terms by reference. If you do not agree to these Terms, you must not use the App.
 
 ---
 
@@ -104,10 +100,8 @@ Prices for Paid Content are displayed within the App at the time of purchase and
 
 ### 7.4 Refunds
 - You may request a refund directly through Google Play within Google's own refund policy window (currently up to 48 hours from the time of purchase for most purchases), governed entirely by Google's terms.
-- Outside that window, refunds are at our sole discretion and will generally be considered only for: (a) a verified technical error that prevented you from accessing the Paid Content you purchased, or (b) a duplicate or erroneous charge.
-- We do not offer refunds based on dissatisfaction with examination outcomes, disagreement with the accuracy or relevance of Content (see Section 6), or a change of mind after the Paid Content has been substantially accessed.
-- To request a refund outside Google Play's window, email **dskj4178@gmail.com** with your order ID and the reason for your request. We aim to acknowledge such requests within 7 days.
-- Nothing in this Section 7.4 limits any refund, replacement, or correction we are required to provide under applicable Indian consumer protection law or under Google Play's own policies, including for duplicate charges, verified technical errors, or Paid Content that is inaccessible due to a system error.
+- Outside that window, all purchases of Paid Content are final and non-refundable. We do not offer refunds for dissatisfaction with examination outcomes, disagreement with the accuracy or relevance of Content (see Section 6), change of mind, or for any other reason once the 48-hour Google Play window has passed.
+- Nothing in this Section 7.4 limits any refund, replacement, or correction we are required to provide under applicable Indian consumer protection law, or under Google Play's own policies — including for duplicate charges, verified technical errors that prevented access to purchased Content, or Paid Content that is inaccessible due to a system error on our end.
 
 ---
 
@@ -198,8 +192,8 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 
 If you have any questions or concerns about these Terms, please contact:
 
-**Grievance Officer:** Shivam Sachan
-**Email:** dskj4178@gmail.com
-**App:** Gravix247 (com.gravix247.gravix247)
+- **Grievance Officer:** Shivam Sachan
+- **Email:** dskj4178@gmail.com
+- **App:** Gravix247 (com.gravix247.gravix247)
 
 We will acknowledge queries within 7 days and aim to resolve them within 90 days, consistent with the commitments in our Privacy Policy.
