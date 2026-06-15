@@ -1,6 +1,6 @@
 # Privacy Policy — Gravix247
 
-**Last updated: 14 June 2026**
+**Last updated: 16 June 2026**
 
 This Privacy Policy explains how Gravix247 ("**Gravix247**", "**we**", "**us**", or "**our**") collects, uses, shares, and protects information when you use the Gravix247 mobile application (the "**App**"), available on Google Play.
 
@@ -139,6 +139,30 @@ As a "Data Principal" under the DPDP Act, you have the right to:
 - **Withdraw consent** at any time (note: withdrawing consent may limit or disable certain features)
 - **Nominate** another individual to exercise these rights on your behalf in the event of your death or incapacity
 - **Register a grievance** regarding the processing of your personal data
+
+### In-app account deletion
+
+You can delete your Gravix247 account at any time directly from within the App — no need to email us. Go to **Settings → Delete Account** and follow the two-step confirmation. Deletion is immediate and permanent once confirmed.
+
+**What gets deleted from our servers:**
+- Your profile — name, email, mobile number, attempt year, optional subject
+- All bookmarks (Prelims, Mains, Current Affairs)
+- All MCQ test results and scores
+- All written answers (Mains)
+- Answer Library records (file metadata and Drive file references)
+- Answer writing goals
+- Your device-linked identifier
+- Your login account
+
+**What gets cleared from your device:**
+- Locally cached PDF files from the Answer Library
+- Study sessions, streaks, coins, badges, and Dream Box data stored on the device
+- All app preferences and locally stored data
+
+**What is NOT deleted:**
+PDF files you backed up to your own Google Drive are not deleted by Gravix247 — those files are in your personal Google Drive account and remain entirely under your control.
+
+**Irreversibility:** Account deletion is permanent and cannot be reversed. All data is deleted at the moment you confirm. If you wish to use Gravix247 again after deleting your account, you will need to create a new account.
 
 To exercise any of these rights, email us at **dskj4178@gmail.com** with the subject line "Privacy Request". We will:
 - Acknowledge your request within **7 days** of receipt
