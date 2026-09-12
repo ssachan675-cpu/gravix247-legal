@@ -7,8 +7,8 @@ title: Delete your account
 **Last updated: 12 September 2026**
 
 This page explains how to delete your Gravix247 account and what happens to your
-data. It applies to the Gravix247 app for Android (`com.gravix247`), available on
-Google Play.
+data. It applies to **Gravix247 UPSC** (`com.gravix247`), the Android app published
+on Google Play by **Gravix247**.
 
 There are two ways to delete your account. **Either one results in the same
 deletion.**
@@ -72,6 +72,23 @@ account when the period ends.
 
 **If you cannot cancel in Google Play for any reason**, use Option 2 above and we
 will delete your account for you.
+
+---
+
+## Only want *some* of your data deleted?
+
+**You do not have to close your account.** Email **dskj4178@gmail.com** with the
+subject line `Privacy Request`, saying what you would like removed. On request we can
+delete your MCQ test results and scores, your bookmarks, your written answers
+(Mains), your Answer Library records, and your answer writing goals — **while your
+account stays open.**
+
+**What cannot be removed while the account remains open:** your name, mobile number,
+attempt year and optional subject. The app requires all four in order to work, so
+those can only be removed by deleting the account.
+
+Requests are acknowledged within **7 days** and acted on within **90 days**. See
+Section 9 of our [Privacy Policy](privacy-policy.html).
 
 ---
 
