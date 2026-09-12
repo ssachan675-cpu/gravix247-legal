@@ -146,6 +146,27 @@ As a "Data Principal" under the DPDP Act, you have the right to:
 - **Nominate** another individual to exercise these rights on your behalf in the event of your death or incapacity
 - **Register a grievance** regarding the processing of your personal data
 
+### Deleting some of your data without deleting your account
+
+**You do not have to close your account to have data removed.** Email us at
+**dskj4178@gmail.com** with the subject line "Privacy Request", telling us what you
+would like deleted. On request we can remove:
+
+- Your MCQ test results and scores
+- Your bookmarks (Prelims, Mains, Current Affairs)
+- Your written answers (Mains)
+- Your Answer Library records — file metadata and Google Drive file references
+- Your answer writing goals
+
+**What we cannot remove while your account remains open:** your **name, mobile
+number, attempt year and optional subject**. The App requires all four in order to
+work, so they can only be removed by deleting your account. This is consistent with
+your right to erasure under the DPDP Act, which does not extend to personal data
+that is still necessary to provide the service you have asked us for.
+
+Requests are acknowledged within **7 days** and acted on within **90 days**, as set
+out at the end of this section.
+
 ### In-app account deletion
 
 You can delete your Gravix247 account directly from within the App — no need to email us. Go to **Settings → Delete Account** and follow the two-step confirmation. Deletion is immediate and permanent once confirmed.
