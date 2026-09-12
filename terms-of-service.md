@@ -1,10 +1,14 @@
+---
+title: Terms of Service
+---
+
 # Terms of Service — Gravix247
 
-**Last updated: 14 June 2026**
+**Last updated: 12 September 2026**
 
 These Terms of Service ("**Terms**") govern your access to and use of the Gravix247 mobile application (the "**App**"), available on Google Play, and any related features and services (together, the "**Service**") provided by Gravix247 ("**Gravix247**", "**we**", "**us**", or "**our**").
 
-By creating an account, signing in with Google, or otherwise using the App, you agree to be bound by these Terms and by our [Privacy Policy](#), which is incorporated into these Terms by reference. If you do not agree to these Terms, you must not use the App.
+By creating an account, signing in with Google, or otherwise using the App, you agree to be bound by these Terms and by our [Privacy Policy](privacy-policy.html), which is incorporated into these Terms by reference. If you do not agree to these Terms, you must not use the App.
 
 ---
 
@@ -38,7 +42,7 @@ The Service includes, among other things:
 - An Answer Library feature allowing you to scan and store your own handwritten answers
 - Bookmarks, performance analytics, and search
 
-Some features and Content are provided free of charge ("**Free Content**"), while others may require a one-time payment to unlock ("**Paid Content**"), as described in Section 7. We may add, modify, suspend, or discontinue any feature or Free Content at any time, with or without notice, as described in Section 14. We will not permanently remove or materially degrade Paid Content you have already purchased without providing reasonable notice and, where practicable, a comparable alternative — except where required for legal, security, or technical reasons beyond our control.
+Some features and Content are provided free of charge ("**Free Content**"), while others require a **paid subscription** to unlock ("**Paid Content**"), as described in Section 7. We may add, modify, suspend, or discontinue any feature or Free Content at any time, with or without notice, as described in Section 14. We will not permanently remove or materially degrade Paid Content during a subscription period you have already paid for without providing reasonable notice and, where practicable, a comparable alternative — except where required for legal, security, or technical reasons beyond our control.
 
 ---
 
@@ -49,6 +53,13 @@ Some features and Content are provided free of charge ("**Free Content**"), whil
 4.2 **Accurate information.** You agree to provide accurate and current information during profile setup (including your name, mobile number, UPSC exam attempt year, and optional subject) and to keep this information up to date.
 
 4.3 **One account per person.** You may maintain only one Gravix247 account. Creating multiple accounts to circumvent restrictions, evade enforcement action, or abuse promotional or new-user benefits is prohibited and may result in suspension of all associated accounts. (See Section 3.2 of our Privacy Policy regarding device-based abuse prevention.)
+
+4.4 **One device per account.** Your Gravix247 account is bound to the **first Android device you sign in from**, and can be used on **that one device only**. This applies to free and paid use alike. If you sign in from a different device, access will be blocked on that device.
+
+- **This limit applies to paid subscriptions.** A subscription does not entitle you to use the Service on more than one device at a time.
+- **If you change or lose your phone**, contact us at the address in Section 17 and we will move your account to your new device after verifying that you own it. There is no automatic self-service transfer.
+- Repeated device-transfer requests from one account may be treated as account sharing under Section 4.3 and Section 8.
+- **A device transfer is not a refund event.** Time during which you are unable to access the Service while awaiting a transfer does not extend your subscription period or entitle you to any refund (Section 7.8).
 
 ---
 
@@ -87,21 +98,57 @@ If you use the Answer Library feature, you retain ownership of the handwritten a
 
 ---
 
-## 7. Paid Content, Payments & Refunds
+## 7. Subscriptions, Payments & Refunds
 
-### 7.1 Paid Content
-Certain Content, such as specific subjects or test series, may require a one-time payment to access ("**Paid Content**"). Paid Content is sold as a one-time, non-consumable digital purchase granting you a permanent, non-transferable licence to access that Content within the App, for as long as the App and that Content continue to be offered, subject to these Terms.
+### 7.1 Paid Content is sold as a recurring subscription
+Certain Content — currently the UPSC CSE Prelims subjects other than CSAT — requires a **paid subscription** to access ("**Paid Content**"). A subscription grants you a limited, personal, non-transferable **right to access** Paid Content **for the duration of the subscription period you have paid for, and no longer**. It is not a purchase of the Content, and it does not grant you any permanent or perpetual licence.
 
-### 7.2 Payment processing
-All payments for Paid Content are processed by **Google Play Billing**, in accordance with Google Play's own terms of service and payment policies. We do not directly collect, process, or store your payment card, UPI, or banking details (see Section 3.5 of our Privacy Policy).
+Which subjects are included in a subscription is shown in the App at the time of purchase and **may change over time**. We will not remove Content from a subscription period you have already paid for without reasonable notice (Section 3).
 
-### 7.3 Pricing
-Prices for Paid Content are displayed within the App at the time of purchase and are inclusive of any taxes shown at checkout. We may change prices for Paid Content at any time; such changes will not affect Paid Content you have already purchased.
+### 7.2 Auto-renewal
+**Subscriptions renew automatically.** Unless you cancel, your subscription renews at the end of each period and **Google Play will charge you again for the next period, at the then-current price, using your chosen payment method**. The subscription period and price are shown in the App and in Google Play before you confirm the purchase.
 
-### 7.4 Refunds
-- You may request a refund directly through Google Play within Google's own refund policy window (currently up to 48 hours from the time of purchase for most purchases), governed entirely by Google's terms.
-- Outside that window, all purchases of Paid Content are final and non-refundable. We do not offer refunds for dissatisfaction with examination outcomes, disagreement with the accuracy or relevance of Content (see Section 6), change of mind, or for any other reason once the 48-hour Google Play window has passed.
-- Nothing in this Section 7.4 limits any refund, replacement, or correction we are required to provide under applicable Indian consumer protection law, or under Google Play's own policies — including for duplicate charges, verified technical errors that prevented access to purchased Content, or Paid Content that is inaccessible due to a system error on our end.
+Renewal continues until you cancel. **We do not send a separate reminder before each renewal**; Google Play is the record of your active subscriptions and their renewal dates.
+
+### 7.3 How to cancel
+You can cancel at any time in **Google Play → Payments & subscriptions → Subscriptions**, or from the link provided in the App. Cancellation must be done through Google Play — we cannot cancel a subscription on your behalf.
+
+**Cancelling stops future renewals only.** It does not end your current period and does not produce a refund (Section 7.8).
+
+### 7.4 What happens when a subscription ends
+When your subscription ends — whether because you cancelled, because payment failed, or because it was terminated under Section 9 — **your access to Paid Content stops.** Free Content, and your own data (bookmarks, test history, answers, timer records), remain available to you.
+
+If a payment fails, Google Play may place your subscription into a **grace period** or **on hold**. During a grace period your access continues while Google retries payment. Once a subscription is **on hold**, access stops until payment succeeds.
+
+### 7.5 One device per account
+A subscription is usable on **one device only**, as set out in Section 4.4. Please read that section before subscribing.
+
+### 7.6 Payment processing
+All payments are processed by **Google Play Billing**, in accordance with Google Play's own terms of service and payment policies. We do not directly collect, process, or store your payment card, UPI, or banking details (see Section 3.5 of our Privacy Policy). Your payment relationship for these charges is with Google, not with us.
+
+### 7.7 Pricing and price changes
+The subscription price is displayed in the App and in Google Play at the time of purchase, and is the total amount payable for that period. We may change the price of a subscription for **future** periods. Where we do, **Google Play will notify you and, where required, obtain your consent before any increased price is charged**; if you do not consent, your subscription will not renew at the new price. A price change never affects a period you have already paid for.
+
+### 7.8 Refunds — we do not offer them
+**Gravix247 does not offer refunds.** This applies in all cases, including but not limited to: cancelling part-way through a period, deleting your account, being unable to access the Service on a second device, dissatisfaction with examination outcomes, disagreement with the accuracy or relevance of Content (Section 6), and change of mind.
+
+**If you cancel or delete your account part-way through a paid period, you will not receive a refund for the unused part of that period.** Your access simply continues until that period ends, or stops when your account is deleted — whichever happens first.
+
+Two things this does **not** do, and cannot do:
+- **It does not affect Google Play's own refund processes.** Google operates its own refund policy — including a self-service window shortly after purchase — and may issue refunds or reverse charges at its discretion, under its terms, not ours. Requests of that kind must be made to Google.
+- **It does not limit your statutory rights.** Nothing in this Section limits any refund, replacement, or correction we are required to provide under applicable Indian consumer protection law — for example for duplicate charges, or where a verified fault on our side prevented access to Paid Content you had paid for.
+
+### 7.9 Deleting your account does not cancel your subscription
+**These are two separate things, handled by two separate companies.** Deleting your Gravix247 account removes your data from our systems; it does **not** cancel your Google Play subscription, and **Google will continue to charge you** until you cancel it in Google Play.
+
+To avoid being charged for a service you can no longer access, **cancel your subscription in Google Play first, then delete your account.**
+
+**The App checks this for you.** If your subscription is still set to renew, the App **will not complete the deletion** — it will show you your next renewal date and send you to Google Play to cancel first. Once it is cancelled, you may delete your account immediately; you do not have to wait for the period to end, though you will lose the remainder of it without a refund (Section 7.8). If your subscription is already cancelled, or you do not have one, deletion proceeds straight away.
+
+**You will never be prevented from having your account deleted.** If you are unable to cancel in Google Play for any reason, contact us at the address in Section 17 and we will delete your account for you.
+
+### 7.10 One-time purchases
+We may in future offer Content for a **one-time payment** rather than a subscription. Where we do, that will be stated clearly at the point of purchase, those purchases do not auto-renew, and Sections 7.2, 7.3 and 7.9 will not apply to them. Sections 7.6, 7.7 and 7.8 will. **Deleting your account will end your access to one-time purchases as well**, and Section 7.8 applies.
 
 ---
 
@@ -122,9 +169,9 @@ You agree not to:
 
 9.1 We may suspend or terminate your account if we reasonably believe you have violated these Terms, engaged in fraudulent, abusive, or unlawful conduct, or if required to do so for security or legal reasons. We will provide notice where practicable, except where immediate suspension or termination is necessary to prevent harm, fraud, or a violation of law.
 
-9.2 Upon termination, your right to access the App and any Content ceases. We are not obligated to refund any amount paid for Paid Content already accessed, except as required by Section 7.4 or applicable law.
+9.2 Upon termination, your right to access the App and any Content ceases, including any Paid Content, and any active subscription stops granting access. **We do not refund any amount paid**, whether for the current period or otherwise, except as required by Section 7.8 or applicable law. **If we terminate your account, you remain responsible for cancelling your subscription in Google Play** — see Section 7.9.
 
-9.3 You may stop using the App at any time and request deletion of your account and associated data as described in our Privacy Policy.
+9.3 You may stop using the App at any time and request deletion of your account and associated data as described in our Privacy Policy. **If you hold an active subscription, please read Section 7.9 first** — deleting your account does not cancel it, and you will continue to be charged by Google Play until you do.
 
 ---
 
