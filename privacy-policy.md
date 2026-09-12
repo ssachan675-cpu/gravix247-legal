@@ -1,6 +1,10 @@
+---
+title: Privacy Policy
+---
+
 # Privacy Policy — Gravix247
 
-**Last updated: 16 June 2026**
+**Last updated: 12 September 2026**
 
 This Privacy Policy explains how Gravix247 ("**Gravix247**", "**we**", "**us**", or "**our**") collects, uses, shares, and protects information when you use the Gravix247 mobile application (the "**App**"), available on Google Play.
 
@@ -125,8 +129,10 @@ No method of transmission or storage is completely secure, and we cannot guarant
 
 **Retention:**
 - We retain your personal data for as long as your account remains active.
-- Purchase and entitlement records are retained for as long as needed to honour your purchases and for accounting or legal purposes, even after account deletion.
-- If you request deletion of your account (Section 9), we will delete or anonymise your personal data within **30 days** of verifying your request, except for data we are required to retain by law (e.g., financial records) or that is needed to resolve an active dispute.
+- **Subscription and purchase records** — the Google Play purchase token, the product purchased, and the dates it was active — are retained for as long as needed to honour your subscription and for accounting, tax, and legal purposes, **even after account deletion**. These records are kept separately from your profile and are not linked to your name, email, or mobile number after deletion.
+- **Device-transfer and account-deletion records** — a non-reversible (hashed) device reference, the date, and the reason — are retained after account deletion for **fraud prevention and abuse detection**, specifically to detect repeated deletion-and-recreation used to evade the one-device-per-account limit described in Section 3.2 and in Section 4.4 of our Terms of Service. These records do not contain your name, email, or mobile number.
+- **When you delete your account from within the App (Section 9), deletion of your personal data is immediate.** Where you instead ask us to delete your data by email, we will delete or anonymise it within **30 days** of verifying your request.
+- In both cases, we retain only what is described above, together with anything we are required to retain by law (for example, financial records) or that is needed to resolve an active dispute.
 
 ---
 
@@ -142,7 +148,21 @@ As a "Data Principal" under the DPDP Act, you have the right to:
 
 ### In-app account deletion
 
-You can delete your Gravix247 account at any time directly from within the App — no need to email us. Go to **Settings → Delete Account** and follow the two-step confirmation. Deletion is immediate and permanent once confirmed.
+You can delete your Gravix247 account directly from within the App — no need to email us. Go to **Settings → Delete Account** and follow the two-step confirmation. Deletion is immediate and permanent once confirmed.
+
+> **⚠️ If your subscription is still set to renew, you must cancel it in Google Play before the App will delete your account.**
+>
+> **Deleting your Gravix247 account does NOT cancel your Google Play subscription, and Google would keep charging you for it.** They are two separate things, handled by two separate companies — we cannot cancel a Google Play subscription for you.
+>
+> So that you are never billed for a service you can no longer reach, the App checks your subscription when you tap **Delete Account**:
+>
+> - **If your subscription is still set to renew** — the App will not complete the deletion. It will show you your next renewal date and send you to Google Play to cancel. **As soon as you have cancelled, you can delete your account immediately** — you do not have to wait for the paid period to end.
+> - **If your subscription is already cancelled, or you do not have one** — deletion proceeds straight away.
+> - **If we are unable to reach Google to check** — the App shows you this warning and lets you delete anyway.
+>
+> **You will not receive a refund for the unused part of a period you have already paid for** ([Terms of Service](terms-of-service.html), Section 7.8). If you would rather use the time you have paid for, cancel now and delete your account when the period ends.
+>
+> **If you are unable to cancel in Google Play for any reason, email us at dskj4178@gmail.com and we will delete your account for you.** You will never be prevented from having your Gravix247 account deleted.
 
 **What gets deleted from our servers:**
 - Your profile — name, email, mobile number, attempt year, optional subject
@@ -160,7 +180,9 @@ You can delete your Gravix247 account at any time directly from within the App �
 - All app preferences and locally stored data
 
 **What is NOT deleted:**
-PDF files you backed up to your own Google Drive are not deleted by Gravix247 — those files are in your personal Google Drive account and remain entirely under your control.
+- PDF files you backed up to your own Google Drive are not deleted by Gravix247 — those files are in your personal Google Drive account and remain entirely under your control.
+- **Your Google Play subscription.** We cannot cancel it; only you can, in Google Play. See the warning above.
+- **Subscription and purchase records, and a hashed device reference**, as described in Section 8 — retained for accounting, tax, legal, and fraud-prevention purposes. **These do not contain your name, email, or mobile number.**
 
 **Irreversibility:** Account deletion is permanent and cannot be reversed. All data is deleted at the moment you confirm. If you wish to use Gravix247 again after deleting your account, you will need to create a new account.
 
