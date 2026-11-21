@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy — Gravix247
 
-**Last updated: 10 October 2026**
+**Last updated: 22 November 2026**
 
 This Privacy Policy explains how Gravix247 ("**Gravix247**", "**we**", "**us**", or "**our**") collects, uses, shares, and protects information when you use the Gravix247 mobile application (the "**App**"), available on Google Play.
 
@@ -65,6 +65,7 @@ If you use the Answer Library feature to scan and store handwritten Mains answer
 If you purchase access to premium content (e.g., unlocking specific Prelims subjects or test series) through Google Play Billing, we receive and store:
 - The Google Play purchase token and order ID
 - The plan/product purchased and its status (active, refunded, revoked)
+- If you use a coupon code: the code, when you applied it, and whether it was used for a purchase; and the number of wrong codes tried from your account in the last hour (to stop code-guessing). This coupon information is deleted when you delete your account.
 
 We do **not** collect, process, or store your payment card or banking details. All payments are processed directly by Google Play under Google's own privacy and payment terms.
 
