@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Terms of Service — Gravix247
 
-**Last updated: 10 October 2026**
+**Last updated: 22 November 2026**
 
 These Terms of Service ("**Terms**") govern your access to and use of the Gravix247 mobile application (the "**App**"), available on Google Play, and any related features and services (together, the "**Service**") provided by Gravix247 ("**Gravix247**", "**we**", "**us**", or "**our**").
 
@@ -128,6 +128,9 @@ All payments are processed by **Google Play Billing**, in accordance with Google
 
 ### 7.7 Pricing and price changes
 The subscription price is displayed in the App and in Google Play at the time of purchase, and is the total amount payable for that period. We may change the price of a subscription for **future** periods. Where we do, **Google Play will notify you and, where required, obtain your consent before any increased price is charged**; if you do not consent, your subscription will not renew at the new price. A price change never affects a period you have already paid for.
+
+### 7.7A Coupon codes
+A coupon code may give a lower price for a stated number of periods. **The full price schedule — each price, how long it lasts, and the price that applies after the coupon period ends — is shown in the App before you confirm, and Google Play charges according to it.** When the coupon period ends, the later price shown at purchase applies automatically; that is part of what you agreed to and is not a price change under Section 7.7. Any later increase above that price follows Section 7.7. **Each account may use one coupon code only.** Codes have a usage limit and an end date, have no cash value, and a subscription bought with a coupon offer without a valid code for your account will not be activated.
 
 ### 7.8 Refunds — we do not offer them
 **Gravix247 does not offer refunds.** This applies in all cases, including but not limited to: cancelling part-way through a period, deleting your account, being unable to access the Service on a second device, dissatisfaction with examination outcomes, disagreement with the accuracy or relevance of Content (Section 6), and change of mind.
