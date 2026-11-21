@@ -132,6 +132,9 @@ The subscription price is displayed in the App and in Google Play at the time of
 ### 7.7A Coupon codes
 A coupon code may give a lower price for a stated number of periods. **The full price schedule — each price, how long it lasts, and the price that applies after the coupon period ends — is shown in the App before you confirm, and Google Play charges according to it.** When the coupon period ends, the later price shown at purchase applies automatically; that is part of what you agreed to and is not a price change under Section 7.7. Any later increase above that price follows Section 7.7. **Each account may use one coupon code only.** Codes have a usage limit and an end date, have no cash value, and a subscription bought with a coupon offer without a valid code for your account will not be activated.
 
+### 7.7B Launch offers
+The App may sometimes show a launch offer: a lower monthly price, with the regular price shown crossed out and **the date the offer ends shown next to it**. **If you subscribe before that date, you are charged the launch price for as long as your subscription continues without a break; the offer ending does not raise your price.** If your subscription ends and you subscribe again after the offer has ended, the price shown at that time applies. Any later change to the price of an existing subscription follows Section 7.7. We may end a launch offer earlier than the date shown; this never changes the price for anyone already subscribed.
+
 ### 7.8 Refunds — we do not offer them
 **Gravix247 does not offer refunds.** This applies in all cases, including but not limited to: cancelling part-way through a period, deleting your account, being unable to access the Service on a second device, dissatisfaction with examination outcomes, disagreement with the accuracy or relevance of Content (Section 6), and change of mind.
 
