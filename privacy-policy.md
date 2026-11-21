@@ -65,7 +65,7 @@ If you use the Answer Library feature to scan and store handwritten Mains answer
 If you purchase access to premium content (e.g., unlocking specific Prelims subjects or test series) through Google Play Billing, we receive and store:
 - The Google Play purchase token and order ID
 - The plan/product purchased and its status (active, refunded, revoked)
-- If you use a coupon code: the code, when you applied it, and whether it was used for a purchase; and the number of wrong codes tried from your account in the last hour (to stop code-guessing). This coupon information is deleted when you delete your account.
+- If you use a coupon code: the code, when you applied it, and whether it was used for a purchase; and the number of wrong codes tried from your account in the last hour (to stop code-guessing). This coupon information is deleted when you delete your account, except a non-reversible (hashed) record that a coupon was used from your email address and from your phone, which is kept to stop the same person using a coupon again (see Section 8).
 
 We do **not** collect, process, or store your payment card or banking details. All payments are processed directly by Google Play under Google's own privacy and payment terms.
 
@@ -132,6 +132,7 @@ No method of transmission or storage is completely secure, and we cannot guarant
 - We retain your personal data for as long as your account remains active.
 - **Subscription and purchase records** — the Google Play purchase token, the product purchased, and the dates it was active — are retained for as long as needed to honour your subscription and for accounting, tax, and legal purposes, **even after account deletion**. These records are kept separately from your profile and are not linked to your name, email, or mobile number after deletion.
 - **Device-transfer and account-deletion records** — a non-reversible (hashed) device reference, the date, and the reason — are retained after account deletion for **fraud prevention and abuse detection**, specifically to detect repeated deletion-and-recreation used to evade the one-device-per-account limit described in Section 3.2 and in Section 4.4 of our Terms of Service. These records do not contain your name, email, or mobile number.
+- **Coupon-use records** — a non-reversible (hashed) record that a coupon was used from an email address and from a phone — are retained after account deletion to prevent the same person using a one-per-person coupon again. They do not contain your name, email address or phone details in readable form.
 - **When you delete your account from within the App (Section 9), deletion of your personal data is immediate.** Where you instead ask us to delete your data by email, we will delete or anonymise it within **30 days** of verifying your request.
 - In both cases, we retain only what is described above, together with anything we are required to retain by law (for example, financial records) or that is needed to resolve an active dispute.
 
